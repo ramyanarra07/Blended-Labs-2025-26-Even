@@ -28,14 +28,20 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1c52bbc2-9c07-441f-84d2-663909441ef1" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/aed9aa3e-05a9-45c3-b9ab-455a44995921" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b923cf41-070e-4a31-b54a-7f0544ed8aaa" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7882875c-cc43-4b9e-9488-7007b236d419" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b4d81ed0-2854-4637-a132-580286bdef9e" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/475431fc-8e0f-44c5-b651-c674fde2551e" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +49,10 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3cf9ab9a-89ea-4ffb-a7ec-813349227849" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/926a380a-ce92-4a10-a9ae-bca5966969d2" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/94be6f25-e6e2-46cc-8ec8-8430726cea9a" />
+
 
 
 ## Workflow
@@ -66,6 +75,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** NARRA RAMYA
 **Course:** Introduction to Cloud Computing  
 
